@@ -1,0 +1,8 @@
+gfxwidth=56
+gfxheight=56
+gfxsplitheight=224
+frames=4
+width=56
+height=56
+score=7
+scripts=##coins

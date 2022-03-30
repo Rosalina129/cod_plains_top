@@ -1,0 +1,3 @@
+gfxheight=32
+height=28
+scripts=##shell
