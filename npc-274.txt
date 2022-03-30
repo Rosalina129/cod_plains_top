@@ -1,0 +1,12 @@
+gfxwidth=32
+gfxheight=32
+gfxoffsetx=0
+gfxsplitheight=416
+frames=6
+framespeed=6
+framestyle=0
+width=32
+height=32
+brightness=72
+score=0
+scripts=##Star Piece
